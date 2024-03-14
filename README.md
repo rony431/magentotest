@@ -7,8 +7,8 @@ Purchase an item (required)
 ● Verify the Privacy and Cookie Policy page
 
 # How to run
- ` Node 16 or above `
- ` Node 8 or above `
+ ` USE NODE 16 `
+ ` NPM 8 `
 # Install
   ` npm install `
 
@@ -18,3 +18,5 @@ Purchase an item (required)
 
 # Report
   Cucumber HTML Report in Report folder as HTML file
+![Report execution](https://app.screencast.com/VtdXMoTqO7eG4)
+![Console output](https://app.screencast.com/1eVmv2mhU8aPW)
